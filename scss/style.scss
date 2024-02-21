@@ -1,0 +1,10 @@
+@import "./_partials/reset";
+@import "./_partials/buttons";
+@import "./_partials/mixins";
+@import "./_partials/colors";
+@import "./_partials/fonts";
+@import "./_partials/spacings";
+
+.hero {
+  color: $text_color;
+}

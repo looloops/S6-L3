@@ -1,0 +1,13 @@
+// colore testo #f4f4f4
+$text_color: #f4f4f4;
+
+//colori bottoni #0e6cff; #ff8700;#4caf50
+$btn_colors: #0e6cff, #ff8700, #4caf50;
+
+@each $color in $btn_colors {
+    .btn-#
+}
+
+//colore bg_hero #640fc5
+
+$bg_hero: #640fc5;
